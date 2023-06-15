@@ -1,0 +1,19 @@
+{
+    "name": "Yonduhk/TronTool",
+    "description": "常用函数库",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Yonduhk",
+            "email": "Yonduhk@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yonduhk\\TronTool\\": "src"
+        }
+    }
+}
